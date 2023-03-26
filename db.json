@@ -150,7 +150,21 @@
   "listas": [
     {
       "id": 1,
-      "titulo": "Você vai curtir"
+      "titulo": "Você vai curtir",
+      "itens": [
+        {
+          "titulo": "Acervo",
+          "descricao": "1979 - Dorival",
+          "imagem": "/img/acervo/caymmi.jpeg",
+          "audio": "/img/acervo/caymmi.mp3"
+        },
+        {
+          "titulo": "Acervo",
+          "descricao": "1979 - Dorival",
+          "imagem": "/img/acervo/caymmi.jpeg",
+          "audio": "/img/acervo/caymmi.mp3"
+        }
+      ]
     },
     {
       "id": 2,
