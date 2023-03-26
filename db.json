@@ -1,0 +1,57 @@
+{
+  "aovivo": [
+    {
+      "id": 1,
+      "background-img": "",
+      "streaming": "https://streaming.educadora.irdeb.ba.gov.br/stream-01"
+    }
+  ],
+  "programas": [
+    {
+      "id": 1,
+      "titulo": "Baião de Dois"
+    },
+    {
+      "id": 2,
+      "titulo": "Brasil Pandeiro"
+    },
+    {
+      "id": 3,
+      "titulo": "Educadora Blues"
+    },
+    {
+      "id": 4,
+      "titulo": "Encontro com Chorinho"
+    },
+    {
+      "id": 5,
+      "titulo": "Especial das Seis"
+    },
+    {
+      "id": 6,
+      "titulo": "Evolução Hip Hop"
+    }
+  ],
+  "listas": [
+    {
+      "id": 1,
+      "titulo": "Você vai curtir"
+    },
+    {
+      "id": 2,
+      "titulo": "Acabou de sair"
+    },
+    {
+      "id": 3,
+      "titulo": "Meu mundo preto"
+    },
+    {
+      "id": 4,
+      "titulo": "Meu mundo preto"
+    },
+    {
+      "id": 5,
+      "titulo": "Nordeste estado de espírito"
+    }
+  ]
+}
