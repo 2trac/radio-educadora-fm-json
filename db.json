@@ -6,6 +6,14 @@
       "streaming": "https://streaming.educadora.irdeb.ba.gov.br/stream-01"
     }
   ],
+  "destaques": [
+    {
+      "imagem": "https://ingest.educadorafm.ba.gov.br/img/carrossel/Banner-Selo.png"
+    },
+    {
+      "imagem": "https://ingest.educadorafm.ba.gov.br/img/carrossel/Banner-Festival.png"
+    }
+  ],
   "programas": [
     {
       "id": 1,
