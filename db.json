@@ -19,132 +19,132 @@
       "id": 1,
       "titulo": "Baião de Dois",
       "estilo": "Party",
-      "imagem": "assests/images/m1.png"
+      "imagem": "assets/images/m1.png"
     },
     {
       "id": 2,
       "titulo": "Brasil Pandeiro",
       "estilo": "Romance",
-      "imagem":"assests/images/m2.png"
+      "imagem":"assets/images/m2.png"
     },
     {
       "id": 3,
       "titulo": "Educadora Blues",
       "estilo": "Retro",
-      "imagem":"assests/images/m3.png"
+      "imagem":"assets/images/m3.png"
     },
     {
       "id": 4,
       "titulo": "Encontro com Chorinho",
       "estilo": "Rock",
-      "imagem":"assests/images/m4.png"
+      "imagem":"assets/images/m4.png"
     },
     {
       "id": 5,
       "titulo": "Especial das Seis",
       "estilo": "Party",
-      "imagem": "assests/images/m1.png"
+      "imagem": "assets/images/m1.png"
     },
     {
       "id": 6,
       "titulo": "Evolução Hip Hop",
       "estilo": "Romance",
-      "imagem":"assests/images/m2.png"
+      "imagem":"assets/images/m2.png"
     },
     {
       "id": 7,
       "titulo": "Evolução Hip Hop",
       "estilo": "Retro",
-      "imagem":"assests/images/m3.png"
+      "imagem":"assets/images/m3.png"
     },{
       "id": 8,
       "titulo": "Forró Para Todos",
       "estilo": "Rock",
-      "imagem":"assests/images/m4.png"
+      "imagem":"assets/images/m4.png"
     },
     {
       "id": 9,
       "titulo": "Lusofonia",
       "estilo": "Party",
-      "imagem": "assests/images/m1.png"
+      "imagem": "assets/images/m1.png"
     },
     {
       "id": 10,
       "titulo": "Mais Caribe",
       "estilo": "Romance",
-      "imagem":"assests/images/m2.png"
+      "imagem":"assets/images/m2.png"
     },
     {
       "id":11,
       "titulo": "Memória do Rádio",
       "estilo": "Retro",
-      "imagem":"assests/images/m3.png"
+      "imagem":"assets/images/m3.png"
     },
     {
       "id": 12,
       "titulo": "Multicultura",
       "estilo": "Rock",
-      "imagem":"assests/images/m4.png"
+      "imagem":"assets/images/m4.png"
     },
     {
       "id": 13,
       "titulo": "No Balanço do Reggae",
       "estilo": "Party",
-      "imagem": "assests/images/m1.png"
+      "imagem": "assets/images/m1.png"
     },
     {
       "id": 14,
       "titulo": "Outros Baianos",
       "estilo": "Romance",
-      "imagem":"assests/images/m2.png"
+      "imagem":"assets/images/m2.png"
     },
     {
       "id": 15,
       "titulo": "Rádio África",
       "estilo": "Retro",
-      "imagem":"assests/images/m3.png"
+      "imagem":"assets/images/m3.png"
     },
     {
       "id": 16,
       "titulo": "Radioca",
       "estilo": "Rock",
-      "imagem":"assests/images/m4.png"
+      "imagem":"assets/images/m4.png"
     },
     {
       "id": 17,
       "titulo": "Rock com Dendê",
       "estilo": "Party",
-      "imagem": "assests/images/m1.png"
+      "imagem": "assets/images/m1.png"
     },
     {
       "id": 18,
       "titulo": "Samba",
       "estilo": "Romance",
-      "imagem":"assests/images/m2.png"
+      "imagem":"assets/images/m2.png"
     },
     {
       "id": 19,
       "titulo": "Sinfonia",
       "estilo": "Retro",
-      "imagem":"assests/images/m3.png"
+      "imagem":"assets/images/m3.png"
     },
     {
       "id": 20,
       "titulo": "Soy Loco Por Ti",
       "estilo": "Rock",
-      "imagem":"assests/images/m4.png"
+      "imagem":"assets/images/m4.png"
     },
     {
       "id": 21,
       "titulo": "Suinga",
       "estilo": "Party",
-      "imagem": "assests/images/m1.png"
+      "imagem": "assets/images/m1.png"
     },
     {
       "id": 22,
       "titulo": "Tambores da Liberdade",
       "estilo": "Romance",
-      "imagem":"assests/images/m2.png"
+      "imagem":"assets/images/m2.png"
     }
   ],
   "listas": [
