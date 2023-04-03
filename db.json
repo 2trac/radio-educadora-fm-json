@@ -150,73 +150,75 @@
   "listas": [
     {
       "id": 1,
+      "stand": "stand2",
       "titulo": "Você vai curtir",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista1-json/itens"
     },
     {
       "id": 2,
+      "stand": "stand3",
       "titulo": "Acabou de sair",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista2-json/itens"
     },
     {
       "id": 3,
+      "stand": "stand4",
       "titulo": "Meu mundo preto",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista3-json/itens"
     },
     {
       "id": 5,
+      "stand": "stand5",
       "titulo": "Nordeste estado de espírito",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista5-json/itens"
     },
     {
       "id": 6,
+      "stand": "stand6",
       "titulo": "Roda de Samba",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista6-json/itens"
     },
     {
       "id": 7,
+      "stand": "stand7",
       "titulo": "Bahia com H",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista7-json/itens"
     },
     {
       "id": 8,
+      "stand": "stand8",
       "titulo": "A música do mundo em nosso idioma",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista8-json/itens"
     },
     {
       "id": 9,
+      "stand": "stand9",
       "titulo": "Pulso latinoamericano",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista9-json/itens"
     },
     {
       "id": 10,
+      "stand": "stand10",
       "titulo": "Sem palavras",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista10-json/itens"
     },
     {
       "id": 11,
+      "stand": "stand11",
       "titulo": "Cena sound Brasil",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista11-json/itens"
     },
     {
       "id": 12,
+      "stand": "stand12",
       "titulo": "You rock and blues",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista12-json/itens"
     },
     {
-      "id": 13,
-      "titulo": "Música de balanço",
-      "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista13-json/itens"
-    },
-    {
       "id": 14,
+      "stand": "stand14",
       "titulo": "Memória Educadora FM",
       "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista14-json/itens"
-    },
-    {
-      "id": 15,
-      "titulo": "Noticiero",
-      "indice": "https://my-json-server.typicode.com/2trac/radio-educadora-fm-lista15-json/itens"
     }
   ]
 }
