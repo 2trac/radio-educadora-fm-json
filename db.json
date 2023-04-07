@@ -1,7 +1,8 @@
 {
   "principal": [
     {
-      "base_url": "https://ingest.educadorafm.ba.gov.br"
+      "base_url": "https://ingest.educadorafm.ba.gov.br",
+      "logo_header": "https://ingest.educadorafm.ba.gov.br"
     }
   ],
   "aovivo": [
