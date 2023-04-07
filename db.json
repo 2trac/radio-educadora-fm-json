@@ -2,7 +2,8 @@
   "principal": [
     {
       "base_url": "https://ingest.educadorafm.ba.gov.br",
-      "logo_header": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/logo.png"
+      "logo_header": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/logo.png",
+      "imagem_fundo_padrao": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/background-player.png"
     }
   ],
   "aovivo": [
