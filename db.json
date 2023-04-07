@@ -5,7 +5,8 @@
       "base_url": "https://ingest.educadorafm.ba.gov.br",
       "url_streaming": "https://streaming.educadora.irdeb.ba.gov.br/stream-01",
       "logo": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/logo.png",
-      "imagem_fundo": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/background-player.png"
+      "imagem_fundo": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/background-player.png",
+      "titulo_emissora": "<h3>107.5 <sub>fm</sub></h3>"
     }
   ],
   "aovivo": [
