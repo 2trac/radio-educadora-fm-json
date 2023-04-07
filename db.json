@@ -1,4 +1,9 @@
 {
+  "principal": [
+    {
+      "base_url": "https://ingest.educadorafm.ba.gov.br"
+    }
+  ],
   "aovivo": [
     {
       "id": 1,
