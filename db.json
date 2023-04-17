@@ -10,7 +10,8 @@
       "endpoint_programa": "/program/{id}",
       "url_streaming": "https://streaming.educadora.irdeb.ba.gov.br/stream-01",
       "imagem_fundo": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/background-player.png",
-      "imagem_base_moldura": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/moldura_{id_programa}.svg"
+      "imagem_base_moldura": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/moldura_{id_programa}.svg",
+      "sobre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consectetur nisi at massa commodo, a molestie turpis dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum quis quam mi. Nunc id ornare ligula. Duis vel ex at massa tristique ullamcorper. Fusce vel nisi a tellus consequat venenatis iaculis et enim. Quisque malesuada a erat id laoreet. Nullam cursus sem in nunc sollicitudin mollis."
     }
   ]
 }
