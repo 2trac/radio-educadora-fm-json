@@ -8,6 +8,7 @@
       "base_url_api": "https://ingest.educadorafm.ba.gov.br/api",
       "endpoint_all": "/teste",
       "endpoint_programa": "/program/{id}",
+      "qtd_itens_estantes": 10,
       "url_streaming": "https://streaming.educadora.irdeb.ba.gov.br/stream-01",
       "imagem_fundo": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/background-player.png",
       "imagem_base_moldura": "https://2trac.com.br/projetos/radio-educadora-fm/assets/image/moldura_{id_programa}.svg",
